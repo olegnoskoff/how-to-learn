@@ -83,18 +83,13 @@
 
 /* Конец блока header */
 
-/* Общие правила для секция и тегов */
-
-
-.content {
-  margin-top: 100px;
-}
 
 /* Начало блока description */
 
 .description {
   display: flex;
   justify-content: center;
+  margin-top: 100px;
 }
 
 .two-columns {
@@ -257,8 +252,14 @@
   overflow: hidden;
 }
 
+.section-title_theme_dark {
+  position: relative;
+  z-index: 1;
+}
+
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: 877px 877px;
   width: 877px;
   height: 877px;
   position: absolute;
@@ -318,7 +319,7 @@
   left: 0px;
 }
 
-.foter__column-heading {
+.footer__column-heading {
   margin: 0;
   line-height: 30px;
   font-size: 18px;

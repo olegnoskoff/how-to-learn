@@ -20,6 +20,3 @@
 :heavy_check_mark: Пройден проверку
 :heavy_check_mark: Сделан проект по 2 брифу
 :black_square_button: Ожидаю проверку
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=olegnoskoff)](https://github.com/ryo-ma/github-profile-trophy)

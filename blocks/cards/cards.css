@@ -5,4 +5,5 @@
   justify-content: center;
   grid-column-gap: 100px;
   grid-template-columns: repeat(3, 240px);
+  padding-left: 0;
 }
